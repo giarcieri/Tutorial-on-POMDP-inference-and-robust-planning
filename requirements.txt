@@ -1,0 +1,10 @@
+jupyter==1.0.0
+ipywidgets==7.7.2
+jupyterlab_widgets==1.1.1
+theano-pymc==1.1.2
+pymc3==3.11.3
+arviz==0.11.4
+numpy==1.21.2
+jax==0.2.25
+jaxlib==0.1.73
+seaborn==0.11.2
